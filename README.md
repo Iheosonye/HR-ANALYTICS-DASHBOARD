@@ -12,7 +12,6 @@ An interactive *HR Analytics Dashboard* built in Microsoft Excel to help organiz
 - [Features](#features)
 - [Dashboard Preview](#dashboard-preview)
 - [Key Insights](#key-insights)
-- [How to Use](#how-to-use)
 - [Skills Demonstrated](#skills-demonstrated)
 - [Recommendations](#recommendations)
 - [Contact](#contact)
@@ -56,7 +55,6 @@ The dashboard is designed for HR managers and business leaders to quickly spot i
 
 ##  Dashboard Preview
 ![HR Analytics Dashboard](<img width="926" height="434" alt="z" src="https://github.com/user-attachments/assets/b4f8c3f9-3917-4b09-b633-3517be588d2f" />)  
-*(Replace with your screenshot path in the images folder)*
 
 ---
 
