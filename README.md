@@ -6,7 +6,7 @@ An interactive *HR Analytics Dashboard* built in Microsoft Excel to help organiz
 
 ---
 
-##  Table of Contents
+## Table of Contents
 - [Overview](#overview)
 - [Dataset](#dataset)
 - [Features](#features)
@@ -19,61 +19,52 @@ An interactive *HR Analytics Dashboard* built in Microsoft Excel to help organiz
 
 ---
 
-## 📌 Overview
-This project analyzes HR data to uncover trends in employee demographics, attendance, performance, and attrition.  
-The dashboard is designed for HR managers to quickly spot problem areas and track workforce KPIs.
-
-*Key Goals:*
-- Identify factors contributing to employee turnover
-- Monitor performance across departments
-- Visualize workforce diversity and distribution
+##  Overview
+This project visualizes HR data to uncover trends in employee demographics, attrition rates, job satisfaction, and departmental performance.  
+The dashboard is designed for HR managers and business leaders to quickly spot issues and make informed decisions.
 
 ---
 
-## 📊 Dataset
-- *Source:* HR sample dataset (synthetic data for demonstration purposes)
-- *Size:* 1,000+ employee records
-- *Columns Include:*
-  - Employee ID
-  - Age
-  - Gender
-  - Department
-  - Job Role
-  - Monthly Salary
-  - Years at Company
-  - Performance Rating
-  - Attrition Status
+## Dataset
+- *Source:* HR sample dataset (synthetic data for demo purposes)
+- *Total Employees:* 1,480
+- *Total Income:* $9.6M
+- *Active Employees:* 1,242
+- *Attrition Count:* 238
+- *Average Age:* 37
+- *Gender Distribution:* 60% Male (889), 40% Female (591)
 
 ---
 
-## ✨ Features
-- Dynamic slicers for department, gender, and job role
-- KPI cards showing:
+##  Features
+- KPI Cards for quick HR metrics:
   - Total Employees
+  - Total Income
+  - Attrition Count
+  - Active Employees
   - Average Age
-  - Attrition Rate
-  - Average Monthly Salary
-- Interactive charts for:
-  - Attrition by Age Group
-  - Department-wise Headcount
-  - Performance Distribution
-  - Salary Trends
-- Conditional formatting for easy spotting of low performance or high attrition areas
+  - Gender Distribution
+- Charts for:
+  - Total Employees by Age Group
+  - Attrition by Department
+  - Attrition by Job Role
+  - Job Satisfaction by Role
+  - Monthly Income by Job Role
+- Department Filter: Human Resources, Research & Development, Sales
 
 ---
 
-## 🖼 Dashboard Preview
-![HR Analytics Dashboard](<img width="926" height="434" alt="z" src="https://github.com/user-attachments/assets/852fc9e4-d7b1-427d-a580-d09ed8187b5f" />
-)  
-*(Replace with your screenshot in the images folder)*
+##  Dashboard Preview
+![HR Analytics Dashboard](<img width="926" height="434" alt="z" src="https://github.com/user-attachments/assets/b4f8c3f9-3917-4b09-b633-3517be588d2f" />)  
+*(Replace with your screenshot path in the images folder)*
 
 ---
 
 ## 📈 Key Insights
-- *Attrition Rate:* 16% overall, highest in the Sales department
-- *Age Group with Highest Attrition:* 25–34 years
-- *Gender Distribution:* Balanced overall, but skewed in certain departments
-- *Top Performer Concentration:* Concentrated in R&D and HR departments
-
----
+- *Largest Age Group:* 26–35 years (611 employees)
+- *Highest Attrition by Department:* Sales (65%)
+- *Job Role with Highest Active Employees:* Sales Executive
+- *Highest Monthly Income Role:* Sales Representative ($2.3M)
+- *Lowest Monthly Income Role:* Human Resources ($220.3K)
+- *Job Satisfaction:* Highest ratings (4–5) seen in Research Scientist and Manager roles
 
