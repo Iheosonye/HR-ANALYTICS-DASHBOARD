@@ -6,7 +6,7 @@ An interactive *HR Analytics Dashboard* built in Microsoft Excel to help organiz
 
 ---
 
-## 📑 Table of Contents
+##  Table of Contents
 - [Overview](#overview)
 - [Dataset](#dataset)
 - [Features](#features)
@@ -63,7 +63,8 @@ The dashboard is designed for HR managers to quickly spot problem areas and trac
 ---
 
 ## 🖼 Dashboard Preview
-![HR Analytics Dashboard](images/hr_dashboard_preview.png)  
+![HR Analytics Dashboard](<img width="926" height="434" alt="z" src="https://github.com/user-attachments/assets/852fc9e4-d7b1-427d-a580-d09ed8187b5f" />
+)  
 *(Replace with your screenshot in the images folder)*
 
 ---
@@ -76,7 +77,3 @@ The dashboard is designed for HR managers to quickly spot problem areas and trac
 
 ---
 
-## 🛠 How to Use
-1. Download or clone this repository:
-   ```bash
-   git clone https://github.com/YourUsername/hr-analytics-dashboard.git
