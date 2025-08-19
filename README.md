@@ -58,11 +58,39 @@ The dashboard is designed for HR managers and business leaders to quickly spot i
 
 ---
 
-## 📈 Key Insights
-- *Largest Age Group:* 26–35 years (611 employees)
-- *Highest Attrition by Department:* Sales (65%)
-- *Job Role with Highest Active Employees:* Sales Executive
-- *Highest Monthly Income Role:* Sales Representative ($2.3M)
-- *Lowest Monthly Income Role:* Human Resources ($220.3K)
-- *Job Satisfaction:* Highest ratings (4–5) seen in Research Scientist and Manager roles
+## 📈 Key Insights:
+🔹The 26-35 age group dominates the workforce, mid-
+career professionals make up the backbone of the organization. Only 47 employees are 55+, and the average age is 37.
 
+🔹 Despite Sales Executives being the highest earners, they also showed the highest attrition and lowest satisfaction.
+
+🔹Research & Development roles recorded high
+satisfaction and low attrition.
+
+🔹Lab Technicians and Sales representatives had lower
+satisfaction scores.
+
+🔹 Human Resources earns the least on average, yet shows
+low attrition.
+
+---
+
+## 📈 Skill Demonstrated:
+-Data Cleaning
+-Power Pivot
+
+---
+
+## 🔗 Recommendations:
+1. Invest in succession planning for leadership and technical roles.
+2. Implement knowledge transfer programs to retain institutional experience.
+3. Offer flexible retirement options for older employees.
+4. Conduct exit interviews to understand causes.
+5. Promote workload balance or flexible hours to reduce burnout.
+6. ⁠ Analyze what's working in Research and Development role like leadership and autonomy and replicate success factors in other departments.
+7. Recognize and reward high-performing teams to maintain team spirit.
+8.  ⁠Run surveys to identify what's missing like training, leadership support, team culture.
+9. Create employee engagement programs tailored to those groups.
+10. Provide growth opportunities and coaching.
+11. ⁠ Explore non-monetary motivators (team culture, purpose).
+12. Ensure competitive compensation in high-turnover role.
