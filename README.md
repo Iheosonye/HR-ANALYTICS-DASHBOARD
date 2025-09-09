@@ -1,5 +1,3 @@
-# HR-ANALYTICS-DASHBOARD
-#
 # HR Analytics Dashboard (Excel)
 
 An interactive *HR Analytics Dashboard* built in Microsoft Excel to help organizations monitor workforce metrics, track employee performance, and make informed HR decisions.
